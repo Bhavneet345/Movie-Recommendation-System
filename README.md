@@ -14,3 +14,5 @@ telling their preferences in movies so that the algorithm can efficiently learn 
 2.Recommendations
 
 
+![Gradient_descent](https://user-images.githubusercontent.com/84433782/129437650-a6f91886-bf77-4c17-81bd-507880eaab1a.png)
+
